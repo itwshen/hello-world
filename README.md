@@ -1,2 +1,1 @@
-# hello-world
-my first github club
+hello my name is stw!
